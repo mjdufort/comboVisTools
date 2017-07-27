@@ -42,4 +42,3 @@ names, and the points to be labeled can be set based on an ellipse oriented to t
 \details{
 A separate plot is generated for element of topGenes.pairwise. Genes with \code{kME_color_assigned > kME_cut} are plotted. Colors of points are determined by the values of \code{color_assigned}; if different colors are preferred, these values must be modified prior to calling \code{plot_WGCNA_module_volcano_2var}.
 }
-

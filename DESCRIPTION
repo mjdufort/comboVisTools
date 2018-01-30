@@ -1,7 +1,7 @@
 Package: comboVisTools
 Title: Combined visualization of WGCNA and differential expression analyses
     (e.g. limma)
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: person("Matthew", "Dufort", email = "matt.dufort@gmail.com", role = c("aut", "cre"))
 Description: This package includes functions to generate plots that show
     combined results of WGCNA and differential expression (e.g. limma) analyses of
